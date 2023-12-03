@@ -1,0 +1,21 @@
+/* JobHistory.css */
+.job-history {
+    margin: 1rem 0;
+}
+
+.job {
+    margin-bottom: 1rem;
+}
+
+.job h3 {
+    margin: 0.5rem 0;
+}
+
+.job p {
+    margin: 0.25rem 0;
+}
+
+.job ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}

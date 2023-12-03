@@ -1,0 +1,9 @@
+/* Header.css */
+.section-header {
+    font-size: 1.1em; /* Example size, adjust as needed */
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    margin: 0.5rem 0;
+    color: #333; /* Example color, adjust as needed */
+    /* Add any other styles you need for your headers */
+}
