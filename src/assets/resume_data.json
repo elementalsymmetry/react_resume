@@ -7,9 +7,9 @@
         "phone": "(786) 548-2420",
         "linkedin": "david-walker-48415277",
         "github": "elementalsymmetry",
-        "resume": "react_resume"
+        "resume": "react_resume",
+        "summary": "Experienced Full Stack IT Professional with more than 18 years including full life-cycle software design, development, configuration, administration, continuous integration and delivery. I enjoy front-end, back-end and devOps development. Every problem is an opportunity to learn, a chance to grow, and a solution waiting to be discovered."
     },
-    "summary": "Motivated IT Professional with +18 years experience in full life-cycle software design, development, administration, continuous integration and delivery.",
     "skills": [
         {
             "name": "Linux / Windows",
@@ -115,7 +115,7 @@
     ],
     "jobHistory": [
         {
-            "position": "Software Engineer Retainer",
+            "position": "Software/DevOps Engineer Retainer",
             "company": "VivoAquatics",
             "location": "Remote",
             "startDate": "September 2022",
@@ -250,7 +250,7 @@
             "attended": "1990 - 1994"
         }
     ],
-    "trainingCertifications": [
+    "training": [
         "Sun Certified Programmer for the Java 2 Platform 1.4",
         "IBM Certified Specialist - Rational Unified Process",
         "IBM Certified Solution Developer - IBM WebSphere Portal V5.0",

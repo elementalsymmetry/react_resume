@@ -18,7 +18,7 @@ const Skill = ({ name, level }) => {
 const Skills = ({ skills }) => {
     return (
         <div className="skills-section">
-            <Header title="Skills Matrix" />
+            <Header title="Skills" />
             {skills.map(skill => (
                 <Skill key={skill.name} name={skill.name} level={skill.level} />
             ))}

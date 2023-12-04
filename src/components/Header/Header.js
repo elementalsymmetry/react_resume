@@ -1,6 +1,6 @@
 // Header.js
 import React from 'react';
-import './Header.css'; // Assuming you will have a separate CSS file for styling
+import './Header.css'; 
 
 const Header = ({ title }) => {
     return <h2 className="section-header">{title}</h2>;

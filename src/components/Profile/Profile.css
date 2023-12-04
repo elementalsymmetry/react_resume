@@ -1,19 +1,24 @@
 /* Profile.css */
-.profile h1 {
-    text-transform: uppercase;
-    font-size: 3em;
-    font-weight: bold; 
-    margin-bottom: 0; 
-    color: #333; 
+.profile {
+    position: relative;
+    display: flex;
+    align-items: start;
 }
 
-.profile h2 {
-    font-size: 1.5em; 
-    margin-top: 0;
-    color: #666; 
-    font-weight: normal; 
+.profile-text {
+    /* Text should take the available space */
+    flex-grow: 1;
 }
 
-.profile p {
+.profile-photo {
+    position: absolute;
+    top: 40px;
+    right: 0;
+}
 
+.profile-photo img {
+    width: 80px;  /* Adjust size as needed */
+    height: 100px; /* Adjust size as needed */
+    border-radius: 50%;
+    object-fit: cover;
 }
