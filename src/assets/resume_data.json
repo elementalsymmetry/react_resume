@@ -76,7 +76,7 @@
         },
         {
             "name": "Python / Jython",
-            "level": 4
+            "level": 3
         },
         {
             "name": "Bash",
@@ -95,7 +95,19 @@
             "level": 3
         },
         {
+            "name": "Go Lang",
+            "level": 2
+        },
+        {
             "name": "DynaTrace / Splunk / Monitoring",
+            "level": 3
+        },
+        {
+            "name": "Jenkins / Confluence",
+            "level": 4
+        },
+        {
+            "name": "Nuxt / Vue / NextJS",
             "level": 3
         }
 
