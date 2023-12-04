@@ -1,12 +1,13 @@
 {
     "profile": {
         "name": "David M. Walker",
+        "title": "Full Stack Engineer",
         "email1": "david.walker@elementalsymmetry.com",
         "email2": "david.matthew.walker@gmail.com",
         "phone": "(786) 548-2420",
-        "linkedin": "linkedin.com/in/david-walker-48415277",
-        "github": "github.com/elementalsymmetry",
-        "resume": "elementalsymmetry.github.io/react_resume"
+        "linkedin": "david-walker-48415277",
+        "github": "elementalsymmetry",
+        "resume": "react_resume"
     },
     "summary": "Motivated IT Professional with +18 years experience in full life-cycle software design, development, administration, continuous integration and delivery.",
     "skills": [

@@ -6,58 +6,63 @@
     .flex-center {
         display: flex;
         justify-content: center;
-        /* If you have 'align-items: center;', consider removing or changing it */
-        /* height: 100vh; */
     }
 
     .resume-container {
         display: flex;
-        flex-direction: column;
-        align-items: center;
+        flex-direction: row; /* Changed to row */
+        align-items: flex-start;
         justify-content: center;
         width: 9in;
         min-height: 11in;
-        background-color: #fff; /* White background for the paper */
-        background-size: cover;
-        box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.2); /* Subtle shadow for depth */
-        padding: 20px;
-        margin: 20px auto; /* Centering the resume on the page */
+        background-color: #fff;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        margin: 20px auto;
         overflow-y: auto;
-        color: black; /* Text color for visibility */
-        font-size: 14px; /* Larger font size for testing */
+        color: black;
+        font-size: 14px;
     }
     
-    .main-content {
-        display: flex;
-        flex-wrap: wrap;
-        width: 100%; /* Ensure it takes the full width of the resume-container */
+    .left-column {
+        flex: 80%;
+    }
+    
+    .right-column {
+        flex: 20%;
     }
     
     .job-history {
-        flex: 1 1 80%; /* grow, shrink, basis */
-        max-width: 80%;
+        margin-right: 20px;
     }
     
     .skills-section {
-        flex: 1 1 20%;
-        max-width: 20%;
+        padding: 20px;
     }
     
     .section-separator {
         border: none;
-        height: 2px; /* Adjust the thickness of the line */
-        background-color: #ddd; /* Light gray color for the line */
-        box-shadow: 0 1px 1px rgba(0,0,0,0.1); /* Subtle shadow for depth */
-        margin: 20px 0; /* Space above and below the line */
+        height: 2px;
+        width: 90%;
+        background-color: #ddd;
+        box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+        margin: 20px 0;
     }
 
     /* Responsive adjustments */
     @media (max-width: 768px) {
-        .job-history, .skills-section {
+        .resume-container {
+            flex-direction: column;
+        }
+
+        .left-column, .right-column {
             flex: 0 0 100%;
             max-width: 100%;
+            margin-right: 0;
+        }
+
+        .job-history, .skills-section {
+            /* Adjust if needed */
         }
     }
-    
 }
