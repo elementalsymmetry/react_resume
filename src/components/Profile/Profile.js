@@ -14,9 +14,6 @@ const Profile = ({ profile }) => {
                 <Header title="Profile" />
                 <div className="text-1xl">{profile.summary}</div>
             </div>
-            <div className="profile-photo absolute right-0 top-50">
-                <img src={image} alt="David" className="rounded-full object-cover w-14 h-24" />
-            </div>
         </div>
     );
 };
