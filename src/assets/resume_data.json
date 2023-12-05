@@ -110,6 +110,10 @@
         {
             "name": "Nuxt / Vue / NextJS",
             "level": 3
+        },
+        {
+            "name": "CyberArk Password Management",
+            "level": 2
         }
 
     ],

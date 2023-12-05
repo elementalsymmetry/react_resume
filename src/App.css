@@ -29,15 +29,15 @@
     }
 
     .left-column-top {
-        flex: 80%;
+        flex: 70%;
     }
     
     .left-column-bottom {
-        flex: 100%;
+        flex: 70%;
     }
 
     .right-column-top  {
-        flex: 20%;
+        flex: 30%;
     }
 
     .section-separator {
