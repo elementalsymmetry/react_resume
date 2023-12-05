@@ -146,7 +146,7 @@
                 ["Algorithms", "Containers","Dynamic Programming"],
                 "Revisited React development","built custom game as an exercise",
                 ["https://elementalsymmetry.github.io/shufflegame"],
-                "Revisited React Native Expo development & reworked the above game as React Native",
+                "Revisited React Native Expo development",["Reworked shufflegame as React Native"],
                 "Completed Udemy Docker Mastery + Kubernetes + Swarm course"
             ]
         },
@@ -157,7 +157,7 @@
             "startDate": "August 2021",
             "endDate": "February 2022",
             "responsibilities": [
-                "Designed & built custom CyberArk password utility script leveraging CyberArk Conjur REST services for integration across Mulesoft & Commerce",
+                "Designed & built custom CyberArk password utility script",["Leveraged CyberArk Conjur REST services","Enabled CyberArk password integration across Mulesoft & Commerce"],
                 "Designed & built Jenkins multi-branch pipeline utilities with scripted parallel stages",["Leveraged wsadmin jython and Jenkins agent Docker image", "Enabled self-service Commerce server management","Integrated with Splunk & OpsGenie alerts"],
                 "Designed & built custom Jenkins gcloud vertex utility workflows",
                 [ "Enabled self-service server management with OpsGenie alerts","Leveraged cloud-sdk Docker image"],
@@ -225,9 +225,10 @@
             "startDate": "May 2009",
             "endDate": "February 2011",
             "responsibilities": [
-                "WCS Commands, Views, Fragments",
-                "Migration using IBM BODL Framework",
-                "Apache JFreeChart, JavaScript, Ajax, Omniture SiteCatalyst web analytics design & implementation"
+                "Developed WebSphere Commerce Commands, Views, Fragments",
+                "Developed migration scripts with IBM BODL Framework utilities",
+                "Developed Omniture SiteCatalyst web analytics",
+                ["Leveraged Apache JFreeChart, JavaScript & Ajax"]
             ]
         },
         {
