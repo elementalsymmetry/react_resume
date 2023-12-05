@@ -2,6 +2,8 @@
 import React from 'react';
 import './Profile.css';
 import Header from '../Header/Header.js';
+import image from '../../assets/images/me.jpg';
+
 
 const Profile = ({ profile }) => {
     return (
@@ -13,7 +15,7 @@ const Profile = ({ profile }) => {
                 <div className="text-1xl">{profile.summary}</div>
             </div>
             <div className="profile-photo absolute right-0 top-50">
-                <img src="/react_resume/images/me.jpg" alt="Your Name" className="rounded-full object-cover w-14 h-24" />
+                <img src={image} alt="David" className="rounded-full object-cover w-14 h-24" />
             </div>
         </div>
     );
