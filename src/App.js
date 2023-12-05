@@ -8,6 +8,7 @@ import PersonalDetails from "./components/PersonalDetails/PersonalDetails.js";
 import Education from './components/Education/Education.js';
 import Training from './components/Training/Training.js';
 import References from './components/References/References.js';
+import logo from './assets/images/logo.svg';
 
 const App = () => {
     console.log(resumeData);
@@ -41,10 +42,11 @@ const App = () => {
                 <Education educationData={resumeData.education} />
                 <Training trainingData={resumeData.training} />
                 <References />
+                <img src={logo} alt="Elemental Symmetry, LLC" className="mt-3 w-60" />
             </div>
             <div className="bottom-right-column">
-                {/* Reserved for LLC logo and banner */}
             </div>
+    
         </div>
     </div>
   );
