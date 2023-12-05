@@ -587,13 +587,13 @@ video {
         width: 100%;
     }
 .left-column-top {
-        flex: 80%;
+        flex: 70%;
     }
 .left-column-bottom {
-        flex: 100%;
+        flex: 70%;
     }
 .right-column-top  {
-        flex: 20%;
+        flex: 30%;
     }
 .section-separator {
         border: none;
@@ -769,7 +769,7 @@ video {
 }
 
 .block {
-    width: 30px;
+    width: 34px;
     height: 5px;
     margin-right: 2px;
     background-color: gray;
