@@ -28,11 +28,15 @@
         width: 100%;
     }
 
-    .left-column-top, .left-column-bottom {
+    .left-column-top {
         flex: 80%;
     }
     
-    .right-column-top, .right-column-bottom {
+    .left-column-bottom {
+        flex: 100%;
+    }
+
+    .right-column-top  {
         flex: 20%;
     }
 

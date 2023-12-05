@@ -42,11 +42,10 @@ const App = () => {
                 <Education educationData={resumeData.education} />
                 <Training trainingData={resumeData.training} />
                 <References />
-                <img src={logo} alt="Elemental Symmetry, LLC" className="mt-3 w-60" />
-            </div>
-            <div className="bottom-right-column">
-            </div>
-    
+            </div>    
+        </div>
+        <div class="flex justify-center items-center">
+            <img src={logo} alt="Elemental Symmetry, LLC" className="mt-3 w-60" />
         </div>
     </div>
   );
