@@ -32,16 +32,16 @@
             "level": 5
         },
         {
-            "name": "REST / Web Services",
-            "level": 5
+            "name": "Python / Jython",
+            "level": 3
         },
         {
-            "name": "GitHub (Git) / CICD",
-            "level": 5
+            "name": "Ruby / Rails",
+            "level": 3
         },
         {
-            "name": "Agile / SCRUM",
-            "level": 5
+            "name": "Go Lang",
+            "level": 3
         },
         {
             "name": "Expo / React Native",
@@ -49,6 +49,10 @@
         },
         {
             "name": "Android Play Store / iOS TestFlight",
+            "level": 3
+        },
+        {
+            "name": "Bash",
             "level": 4
         },
         {
@@ -64,27 +68,11 @@
             "level": 3
         },
         {
-            "name": "NoSQL / MongoDB / Firebase",
-            "level": 4
-        },
-        {
             "name": "SQL / MySQL / Oracle",
             "level": 4
         },
         {
-            "name": "NPM / Yarn",
-            "level": 4
-        },
-        {
-            "name": "Python / Jython",
-            "level": 3
-        },
-        {
-            "name": "Bash",
-            "level": 4
-        },
-        {
-            "name": "Bootstrap / Tailwind CSS",
+            "name": "NoSQL / MongoDB / Firebase",
             "level": 3
         },
         {
@@ -92,16 +80,28 @@
             "level": 3
         },
         {
-            "name": "Ruby / Rails",
-            "level": 3
+            "name": "NPM / Yarn",
+            "level": 4
         },
         {
-            "name": "Go Lang",
-            "level": 2
+            "name": "REST / Web Services",
+            "level": 5
+        },
+        {
+            "name": "GitHub (Git) / CICD",
+            "level": 5
+        },
+        {
+            "name": "Bootstrap / Tailwind CSS",
+            "level": 3
         },
         {
             "name": "DynaTrace / Splunk / Monitoring",
             "level": 3
+        },
+        {
+            "name": "Agile / SCRUM",
+            "level": 5
         },
         {
             "name": "Jenkins / Confluence",
