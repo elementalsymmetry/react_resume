@@ -157,7 +157,7 @@
             "startDate": "August 2021",
             "endDate": "February 2022",
             "responsibilities": [
-                "Designed & built custom CyberArk password utility script leveraging CyberArk Conjur REST services for integratio across Mulesoft & Commerce",
+                "Designed & built custom CyberArk password utility script leveraging CyberArk Conjur REST services for integration across Mulesoft & Commerce",
                 "Designed & built Jenkins multi-branch pipeline utility with scripted parallel stages leveraging wsadmin jython scripting and Jenkins agent Docker image, integrated with Splunk & OpsGenie alerts",
                 "Designed & built customer Jenkins gcloud vertex utility job for self-serice restars & validation in proper sequence with OpsGenie alerts, leveraging cloud-sdk Docker image",
                 "Assist with WebSphere Commerce concerns"
