@@ -158,8 +158,9 @@
             "endDate": "February 2022",
             "responsibilities": [
                 "Designed & built custom CyberArk password utility script leveraging CyberArk Conjur REST services for integration across Mulesoft & Commerce",
-                "Designed & built Jenkins multi-branch pipeline utility with scripted parallel stages leveraging wsadmin jython scripting and Jenkins agent Docker image, integrated with Splunk & OpsGenie alerts",
-                "Designed & built custom Jenkins gcloud vertex utility job for self-serice restars & validation in proper sequence with OpsGenie alerts, leveraging cloud-sdk Docker image",
+                "Designed & built Jenkins multi-branch pipeline utilities with scripted parallel stages",["Leveraged wsadmin jython and Jenkins agent Docker image", "Enabled self-service Commerce server management","Integrated with Splunk & OpsGenie alerts"],
+                "Designed & built custom Jenkins gcloud vertex utility workflows",
+                [ "Enabled self-service server management with OpsGenie alerts","Leveraged cloud-sdk Docker image"],
                 "Assist with WebSphere Commerce concerns"
             ]
         },
