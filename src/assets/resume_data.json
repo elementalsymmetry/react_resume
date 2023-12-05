@@ -53,15 +53,15 @@
         },
         {
             "name": "Amazon Web Services",
-            "level": 4
+            "level": 3
         },
         {
             "name": "Google Cloud Platform",
-            "level": 4
+            "level": 3
         },
         {
             "name": "Kubernetes / Docker / Helm",
-            "level": 4
+            "level": 3
         },
         {
             "name": "NoSQL / MongoDB / Firebase",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Bootstrap / Tailwind CSS",
-            "level": 4
+            "level": 3
         },
         {
             "name": "Graphql",
