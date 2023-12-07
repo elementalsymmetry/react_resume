@@ -119,6 +119,19 @@
     ],
     "jobHistory": [
         {
+            "position": "Full Stack Engineer",
+            "company": "Tap2Tour",
+            "location": "Remote",
+            "startDate": "July 2022",
+            "endDate": "Present",
+            "responsibilities": [
+                "Google Firebase application datastore development & debugging",
+                "Expo / React Native mobile application management, development & debugging",
+                "Android Play Store application configuration & management",
+                "Git CICD workflow design, development & management"
+            ]
+        },
+        {
             "position": "Software/DevOps Engineer Retainer",
             "company": "VivoAquatics",
             "location": "Remote",
