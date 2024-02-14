@@ -9,7 +9,7 @@ const Profile = ({ profile }) => {
     return (
         <div className="profile relative">
             <div className="profile-text">
-                <h1 className="uppercase text-5xl font-bold mb-5 text-gray-800">{profile.name}</h1>
+                <h1 className="uppercase text-5xl font-bold mb-5 dark:text-gray-600">{profile.name}</h1>
                 <h2 className="text-3xl mb-5 text-gray-600 font-normal">{profile.title}</h2>
                 <Header title="Profile" />
                 <div className="text-1xl">{profile.summary}</div>
