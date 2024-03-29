@@ -32,40 +32,36 @@
             "level": 5
         },
         {
-            "name": "Python / Jython",
-            "level": 3
+            "name": "Agile / SCRUM",
+            "level": 5
         },
         {
-            "name": "Ruby / Rails",
-            "level": 3
+            "name": "REST / Web Services",
+            "level": 5
         },
         {
-            "name": "Go Lang",
-            "level": 3
+            "name": "GitHub (Git) / CICD",
+            "level": 5
+        },
+        {
+            "name": "Bash / Scripting",
+            "level": 5
         },
         {
             "name": "Expo / React Native",
             "level": 4
         },
         {
-            "name": "Android Play Store / iOS TestFlight",
-            "level": 3
-        },
-        {
-            "name": "Bash",
+            "name": "Tailwind CSS / Bootstrap",
             "level": 4
         },
         {
-            "name": "Amazon Web Services",
-            "level": 3
+            "name": "NPM / Yarn",
+            "level": 4
         },
         {
-            "name": "Google Cloud Platform",
-            "level": 3
-        },
-        {
-            "name": "Kubernetes / Docker / Helm",
-            "level": 3
+            "name": "Jenkins / Confluence",
+            "level": 4
         },
         {
             "name": "SQL / MySQL / Oracle",
@@ -80,19 +76,31 @@
             "level": 3
         },
         {
-            "name": "NPM / Yarn",
-            "level": 4
+            "name": "Amazon Web Services",
+            "level": 3
         },
         {
-            "name": "REST / Web Services",
-            "level": 5
+            "name": "Google Cloud Platform",
+            "level": 3
         },
         {
-            "name": "GitHub (Git) / CICD",
-            "level": 5
+            "name": "Android Play Store / iOS TestFlight",
+            "level": 3
         },
         {
-            "name": "Bootstrap / Tailwind CSS",
+            "name": "Kubernetes / Docker / Helm",
+            "level": 3
+        },
+        {
+            "name": "Python / Jython",
+            "level": 3
+        },
+        {
+            "name": "Ruby / Rails",
+            "level": 3
+        },
+        {
+            "name": "Go Lang",
             "level": 3
         },
         {
@@ -100,20 +108,8 @@
             "level": 3
         },
         {
-            "name": "Agile / SCRUM",
-            "level": 5
-        },
-        {
-            "name": "Jenkins / Confluence",
-            "level": 4
-        },
-        {
             "name": "Nuxt / Vue / NextJS",
             "level": 3
-        },
-        {
-            "name": "CyberArk Password Management",
-            "level": 2
         }
 
     ],
@@ -177,8 +173,7 @@
                 "Designed & built custom CyberArk password utility script",["Leveraged CyberArk Conjur REST services","Enabled CyberArk password integration across Mulesoft & Commerce"],
                 "Designed & built Jenkins multi-branch pipeline utilities with scripted parallel stages",["Leveraged wsadmin jython and Jenkins agent Docker image", "Enabled self-service Commerce server management","Integrated with Splunk & OpsGenie alerts"],
                 "Designed & built custom Jenkins gcloud vertex utility workflows",
-                [ "Enabled self-service server management with OpsGenie alerts","Leveraged cloud-sdk Docker image"],
-                "Assist with WebSphere Commerce concerns"
+                [ "Enabled self-service server management with OpsGenie alerts","Leveraged cloud-sdk Docker image"]
             ]
         },
         {

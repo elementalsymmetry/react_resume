@@ -16,6 +16,9 @@ export default {
         type: "module",
     },
   },
+  performance: {
+    maxAssetSize: 500000, // Adjust the size limit as needed
+  },
   module: {
     rules: [
       {
